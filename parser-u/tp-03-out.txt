@@ -1,0 +1,6 @@
+name of file to read from? tp-03.txt
+begin
+A = B + C ;
+B = A - A + C + B - C
+end
+Press any key to continue . . .
